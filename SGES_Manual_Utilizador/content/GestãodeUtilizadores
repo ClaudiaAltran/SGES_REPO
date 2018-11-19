@@ -2,7 +2,7 @@
 # 16.GestãodeUtilizadores
 Neste separador é feito a criação de utilizador INPS.
 
-Ao identificar e autenticar é apresentado ao utilizador o menu principal do SGES onde pode aceder às diferentes funcionalidades que lhe
-estão disponiveis de acordo com o perfil. O utilizador deve aceder com o perfil de administrador e visualiza o seguinte no menu principal :
+Ao identificar e autenticar no portal do SGES pode aceder às seguintes Funcionalidades que estão disponíveis. 
+Com o perfil de administrador deve visualizar o seguinte no menu principal: 
 
 ![figmenuprincipal] (img/pages/cap16/16_0_1.png)
