@@ -28,6 +28,7 @@ Para criar um Gestor INPS é necessário na entidade pretendida já ter associad
 
 ! [figmenuprincipal] (img/pages/cap16/16_0_3.jpg)
 
+É obrigatório o preenchimento dos campos identificados :
 
 |                  |Campos Obrigatórios na criação       | 
 |------------------|-------------------------------------|
@@ -35,5 +36,6 @@ Para criar um Gestor INPS é necessário na entidade pretendida já ter associad
 |                  | BI/CC                               |
 |                  | Data de Nascimento                  |
 |                  | Email                               |     
+
 
 
