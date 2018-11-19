@@ -7,7 +7,6 @@ updated_on: 2015-10-06
 translation_priority: 1
 order: 3
 ---
-
 <p id="GestãodeUtilizadores"></p>
 
 #16.GestãodeUtilizadores
