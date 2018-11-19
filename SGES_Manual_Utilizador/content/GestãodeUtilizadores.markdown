@@ -27,3 +27,5 @@ Para criar um Gestor INPS é necessário na entidade pretendida já ter associad
   ##16.1.1 Identificação 
 
 ! [figmenuprincipal] (img/pages/cap16/16_0_3.jpg)
+
+
