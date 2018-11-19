@@ -35,5 +35,5 @@ Para criar um Gestor INPS é necessário na entidade pretendida já ter associad
 |                  | BI/CC                               |  |
 |                  | Data de Nascimento                  |  |
 |                  | Email                               |  |       
-|------------------|-------------------------------------|--|
+
 
