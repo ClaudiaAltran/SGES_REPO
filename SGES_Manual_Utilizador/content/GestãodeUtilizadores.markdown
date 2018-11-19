@@ -19,5 +19,11 @@ Ao identificar e autenticar no portal do SGES pode aceder às seguintes funciona
 Com o perfil de administrador deve visualizar o seguinte no menu principal: 
 
 ! [figmenuprincipal] (img/pages/cap16/16_0_1.jpg)
-
+ 
 <p class="caption" id="figmenuprincipal"> Menu Principal </p>
+
+Para criar um Gestor INPS é necessário na entidade pretendida já ter associado um estabelecimento. O utilizador pode clicar em CRIAR na página de Gestores INPS à que pode aceder através do menu Administração do menu principal.
+
+  ##16.1.1 Identificação 
+
+! [figmenuprincipal] (img/pages/cap16/16_0_3.jpg)
