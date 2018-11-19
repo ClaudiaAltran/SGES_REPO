@@ -1,8 +1,8 @@
 <p id="GestãodeUtilizadores"></p>
 # 16.GestãodeUtilizadores
-Neste separador é feito a criação de utilizador INPS.
+Neste separador permite efectuar a criação de utilizador INPS.
 
-Ao identificar e autenticar no portal do SGES pode aceder às seguintes Funcionalidades que estão disponíveis. 
+Ao identificar e autenticar no portal do SGES pode aceder às seguintes funcionalidades disponíveis : Entidade e Administração. 
 Com o perfil de administrador deve visualizar o seguinte no menu principal: 
 
 ![figmenuprincipal] (img/pages/cap16/16_0_1.png)
