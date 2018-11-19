@@ -19,4 +19,4 @@ Neste separador permite efectuar a criação de utilizador INPS.
 Ao identificar e autenticar no portal do SGES pode aceder às seguintes funcionalidades disponíveis : Entidade e Administração. 
 Com o perfil de administrador deve visualizar o seguinte no menu principal: 
 
-![figmenuprincipal] (img/pages/cap16/16_0_1.png)
+![figmenuprincipal] (img/pages/cap16/16_0_1.jpg)
