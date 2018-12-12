@@ -33,7 +33,7 @@ Utilizando o botão ''Atalho'' no canto superior esquerdo, tem como opção o me
  
   ![figmensagem1](img/pages/cap16/16_1_4.jpg)
   
-  E é enviado um e-mail ao utilizador com o perfim ADMIN_ENTIDADE.
+  E é enviado um e-mail ao utilizador com o perfil ADMIN_ENTIDADE.
 
   Se a entidade não existe no SGES  é mostrada a mensagem:    
   
