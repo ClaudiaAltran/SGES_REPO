@@ -45,17 +45,17 @@ Utilizando o botão ''Atalho'' no canto superior esquerdo, tem como opção o me
 
   Se a entidade não existe no SGES  é mostrada a mensagem:    
   
-   ![figmensagem2](img/pages/cap16/16_1_5.jpg)
+  ![figmensagem2](img/pages/cap16/16_1_5.jpg)
    
-   <p class="caption" id="figmensagem2"> Mensagem de aviso : Entidade não se encontra Registada no SGES </p>
+  <p class="caption" id="figmensagem2"> Mensagem de aviso : Entidade não se encontra Registada no SGES </p>
    
-   No caso de os dados serem enviados pela ERS a exitência deste mensagem não fará sentido.
+  No caso de os dados serem enviados pela ERS a exitência deste mensagem não fará sentido.
    
-   Se o utilizador carregar no botão ''Confirmar'' é mostrada a mensagem :
+  Se o utilizador carregar no botão ''Confirmar'' é mostrada a mensagem :
  
-   ![figmensagem3](img/pages/cap16/16_1_6.jpg) 
+  ![figmensagem3](img/pages/cap16/16_1_6.jpg) 
    
-   <p class="caption" id="figmensagem3"> Mensagem de sucesso </p>
+  <p class="caption" id="figmensagem3"> Mensagem de sucesso </p>
 
 ## 16.2 Criação de Gestores INPS
 
@@ -72,9 +72,9 @@ Na Entidade e no Estabelecimento os dados referentes á informação tem de esta
 
  ##16.2.1 Identificação 
 
-! [figmenuprincipal] (img/pages/cap16/16_0_3.jpg)
+![figidentificacao](img/pages/cap16/16_0_3.jpg)
 
-<p class="caption" id="figmenuprincipal">Criar Gestor INPS</p>
+<p class="caption" id="figidentificacao">Criar Gestor INPS</p>
 
 É obrigatório o preenchimento dos campos identificados:
 
@@ -86,6 +86,14 @@ Na Entidade e no Estabelecimento os dados referentes á informação tem de esta
 |                  | Email                               |     
 
 Após o preenchimento dos campos obrigatórios indicados acima é necessário carregar no botão "SUBMETER":
+
+![figCriarGestorINPS](img/pages/cap16/16_0_3.jpg)
+
+<p class="caption" id="CriarGestorINPS">Gestor INPS criado com sucesso</p>
+
+
+
+
 
 
 
