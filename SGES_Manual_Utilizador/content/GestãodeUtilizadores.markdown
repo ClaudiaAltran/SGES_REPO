@@ -7,7 +7,7 @@ updated_on: 2015-10-06
 translation_priority: 1
 order: 3
 ---
-
+<p></p>
 <p id="GestãodeUtilizadores"></p>
 
 # 16.Gestão de Utilizadores
@@ -16,6 +16,7 @@ Neste módulo iremos apresentar de forma explicativa como proceder á Criação 
 Permite a identificação e gestão dos responsáveis pela manutenção do Inventário Nacional de profissionais de Saúde e serve como e fonte de entidades/estabelecimento para o INPS.
 
 ## 16.1 Criação de Interlecutores SGES 
+
 
 Após efectuar o login, o utilizador entra por default no menu ''Criação Interlocutores SGES'' :
 
