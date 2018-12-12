@@ -8,7 +8,6 @@ translation_priority: 1
 order: 3
 ---
 <p id="GestãodeUtilizadores"></p>
-<p id="listaeqcr"></p>
 #16.GestãodeUtilizadores
 
 ## 16.1 Criação de Interlecutores SGES 
