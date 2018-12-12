@@ -8,12 +8,12 @@ translation_priority: 1
 order: 3
 ---
 <p id="GestãodeUtilizadores"></p>
-
+<p id="listaeqcr"></p>
 #16.GestãodeUtilizadores
 
 Neste separador permite efectuar a criação de utilizador INPS.
 
-##16.1 Criação de Utilizadores
+## 16.1 Criação de Utilizadores
 
 Ao identificar e autenticar no portal do SGES pode aceder às seguintes funcionalidades disponíveis : Entidade e Administração. 
 Com o perfil de administrador deve visualizar o seguinte no menu principal: 
@@ -24,13 +24,15 @@ Com o perfil de administrador deve visualizar o seguinte no menu principal:
 
 Para criar um Gestor INPS é necessário na entidade pretendida já ter associado um estabelecimento. O utilizador pode clicar em CRIAR na página de Gestores INPS à que pode aceder através do menu Administração do menu principal.
 
+Na Entidade e no Estabelecimento os dados referentes á informação tem de estar todos preenchidos, principalmente o Nº ERS e a Data de Início. 
+
   ##16.1.1 Identificação 
 
 ! [figmenuprincipal] (img/pages/cap16/16_0_3.jpg)
 
 <p class="caption" id="figmenuprincipal">Criar Gestor INPS</p>
 
-É obrigatório o preenchimento dos campos identificados :
+É obrigatório o preenchimento dos campos identificados:
 
 |                  |Campos Obrigatórios na criação       | 
 |------------------|-------------------------------------|
@@ -39,7 +41,6 @@ Para criar um Gestor INPS é necessário na entidade pretendida já ter associad
 |                  | Data de Nascimento                  |
 |                  | Email                               |     
 
-Após o preenchimento dos campos obrigatórios indicados acima é necessario selecionar 
-
+Após o preenchimento dos campos obrigatórios indicados acima é necessário selecionar
 
 
