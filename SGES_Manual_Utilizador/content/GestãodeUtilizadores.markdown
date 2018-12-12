@@ -17,15 +17,21 @@ Após efectuar o login, o utilizador entra por default no menu ''Criação Inter
 
 ![figCriarInterlecutores](img/pages/cap16/16_1_0.jpg)
 
+<p class="caption" id="figCriarInterlecutores"> Menu Principal </p>
+
 Os utilizadores do service desk podem criar interlocutores da entidade.
  
 Utilizando o botão ''Atalho'' no canto superior esquerdo, tem como opção o menu ''Gestão de Utilizadores''. Se clicar no menu vê:
 
 ![figgestãoutilizadores](img/pages/cap16/16_1_1.jpg)
 
+<p class="caption" id="figgestãoutilizadores"> Gestão de Utilizadores </p>
+
  Se o utilizador carregar no botão ''Criar''  vê:
  
  ![figCriarInterlecutores2](img/pages/cap16/16_1_2.jpg)
+ 
+ <p class="caption" id="figCriarInterlecutores2"> Interlecutores SGES </p>
  
  É enviado um email ao email associado.
  
@@ -33,17 +39,23 @@ Utilizando o botão ''Atalho'' no canto superior esquerdo, tem como opção o me
  
   ![figmensagem1](img/pages/cap16/16_1_4.jpg)
   
+  <p class="caption" id="figmensagem1"> Entidade Registada e utilizador criado com sucesso </p>
+  
   E é enviado um e-mail ao utilizador com o perfil ADMIN_ENTIDADE.
 
   Se a entidade não existe no SGES  é mostrada a mensagem:    
   
    ![figmensagem2](img/pages/cap16/16_1_5.jpg)
    
+    <p class="caption" id="figmensagem2"> Mensagem de aviso : Entidade não se encontra Registada no SGES </p>
+   
    No caso de os dados serem enviados pela ERS a exitência deste mensagem não fará sentido.
    
    Se o utilizador carregar no botão ''Confirmar'' é mostrada a mensagem :
  
-   ![figmensagem3](img/pages/cap16/16_1_6.jpg)                        
+   ![figmensagem3](img/pages/cap16/16_1_6.jpg) 
+   
+    <p class="caption" id="figmensagem3"> Mensagem de sucesso </p>
 
 ## 16.2 Criação de Gestores INPS
 
@@ -58,7 +70,7 @@ Para criar um Gestor INPS é necessário na entidade pretendida já ter associad
 
 Na Entidade e no Estabelecimento os dados referentes á informação tem de estar todos preenchidos, principalmente o Nº ERS e a Data de Início. 
 
-  ##16.2.1 Identificação 
+ ##16.2.1 Identificação 
 
 ! [figmenuprincipal] (img/pages/cap16/16_0_3.jpg)
 
@@ -73,7 +85,11 @@ Na Entidade e no Estabelecimento os dados referentes á informação tem de esta
 |                  | Data de Nascimento                  |
 |                  | Email                               |     
 
-Após o preenchimento dos campos obrigatórios indicados acima é necessário carregar no botão "SUBMETER".
+Após o preenchimento dos campos obrigatórios indicados acima é necessário carregar no botão "SUBMETER":
+
+
+
+
 
 
 
