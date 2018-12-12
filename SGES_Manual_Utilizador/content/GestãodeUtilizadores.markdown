@@ -20,7 +20,7 @@ Tem como objectivo a identificação e gestão dos responsáveis pela manutenç�
 
 Após efectuar o login, o utilizador entra por default no menu **Registo** :
 
-![figMenuRegisto](img/pages/cap16/16_0_7.jpg)
+![figMenuRegisto](img/pages/cap16/16_0_7.JPG)
 
 <p class="caption" id="figMenuRegisto"> Menu Principal - Registo </p>
 
