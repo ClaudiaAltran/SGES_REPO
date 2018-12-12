@@ -15,35 +15,35 @@ order: 3
 
 Após efectuar o login, o utilizador entra por default no menu ''Criação Interlocutores SGES'' :
 
-![figGestãodeUtilizadores](img/pages/cap16/16_1_0.jpg)
+![figCriarInterlecutores](img/pages/cap16/16_1_0.jpg)
 
-Como mostrado na figura anterior, os utilizadores do service desk pode criar interlocutores da entidade.
+Os utilizadores do service desk podem criar interlocutores da entidade.
  
 Utilizando o botão ''Atalho'' no canto superior esquerdo, tem como opção o menu ''Gestão de Utilizadores''. Se clicar no menu vê:
 
-![figmenuprincipal] (img/pages/cap16/16_1_1.jpg)
+![figgestãoutilizadores](img/pages/cap16/16_1_1.jpg)
 
  Se o utilizador carregar no botão ''Criar''  vê:
  
- ![figmenuprincipal] (img/pages/cap16/16_1_2.jpg)
+ ![figCriarInterlecutores2](img/pages/cap16/16_1_2.jpg)
  
  É enviado um email ao email associado.
  
  Se a entidade já existe no SGES  é mostrada a mensagem:
  
-  ![figmenuprincipal] (img/pages/cap16/16_1_4.jpg)
+  ![figmensagem1](img/pages/cap16/16_1_4.jpg)
   
   E é enviado um e-mail ao utilizador com o perfim ADMIN_ENTIDADE.
 
   Se a entidade não existe no SGES  é mostrada a mensagem:    
   
-   ![figmenuprincipal] (img/pages/cap16/16_1_5.jpg)
+   ![figmensagem2](img/pages/cap16/16_1_5.jpg)
    
    No caso de os dados serem enviados pela ERS a exitência deste mensagem não fará sentido.
    
-   Se a entidade não existe no SGES  é mostrada a mensagem:
-
-                                   1.3.3.1 Se o utilizador carregar no botão ''Confirmar'' é mostrada a mensagem:
+   Se o utilizador carregar no botão ''Confirmar'' é mostrada a mensagem :
+ 
+   ![figmensagem3](img/pages/cap16/16_1_6.jpg)                        
 
 ## 16.2 Criação de Gestores INPS
 
