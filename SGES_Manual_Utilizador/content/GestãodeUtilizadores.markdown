@@ -15,7 +15,7 @@ order: 3
 
 Após efectuar o login, o utilizador entra por default no menu ''Criação Interlocutores SGES'' :
 
-! [figmenuprincipal] (img/pages/cap16/16_1_0.jpg)
+![figmenuprincipal] (img/pages/cap16/16_1_0.jpg)
 
 Como mostrado na figura anterior, os utilizadores do service desk pode criar interlocutores da entidade.
  
@@ -45,7 +45,7 @@ Utilizando o botão ''Atalho'' no canto superior esquerdo, tem como opção o me
 
                                    1.3.3.1 Se o utilizador carregar no botão ''Confirmar'' é mostrada a mensagem:
 
-## 16.2 Criação de Utilizadores
+## 16.2 Criação de Gestores INPS
 
 Ao identificar e autenticar no portal do SGES pode aceder às seguintes funcionalidades disponíveis : Entidade e Administração. 
 Com o perfil de administrador deve visualizar o seguinte no menu principal: 
