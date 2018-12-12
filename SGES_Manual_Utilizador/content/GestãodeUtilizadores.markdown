@@ -64,7 +64,7 @@ No botão **Interlecutores SGES** é criado o Utiizador.
 
 ## 16.2 Criação de Gestores INPS
 
-Ao identificar e autenticar no portal do SGES, com as credências enviadas pelo ServiceDesk, pode aceder às seguintes funcionalidades disponíveis : Entidade e Administração. 
+Ao identificar e autenticar no portal do SGES, com as credências enviadas, pode aceder às seguintes funcionalidades disponíveis : **Entidade** e **Administração**. 
 
 Com o perfil de administrador deve visualizar o seguinte no menu principal: 
 
@@ -72,7 +72,22 @@ Com o perfil de administrador deve visualizar o seguinte no menu principal:
  
 <p class="caption" id="figmenuprincipal"> Menu Principal </p>
 
-Para criar um Gestor INPS é necessário que na entidade pretendida ter no minimo um estabelecimento associado. O utilizador pode clicar em CRIAR na página de Gestores INPS a que pode aceder através do menu Administração do menu principal.
+Para criar um Gestor INPS é necessário que na entidade pretendida ter no minimo um estabelecimento associado. 
+
+Para exibir a entidade deve carregar no botão **Entidade**, visualizando o seguinte :
+
+![figEntidade](img/pages/cap16/16_0_9.JPG)
+ 
+<p class="caption" id="figEntidade"> Entidade </p>
+
+Para exibir os **Estabelecimentos** associados à Entidade deve carregar na TAB visivel na imagem anterior **Estabelecimentos** : 
+
+![figEstabelecimentos](img/pages/cap16/16_0_10.JPG)
+ 
+<p class="caption" id="figEstabelecimentos"> Estabelecimentos </p>
+
+
+O utilizador pode clicar em **CRIAR** na página de Gestores INPS a que pode aceder através do menu Administração do menu principal.
 
 Na Entidade e no Estabelecimento os dados referentes á informação tem de estar todos preenchidos, principalmente o Nº ERS e a Data de Início. 
 
