@@ -15,7 +15,7 @@ order: 3
 
 Após efectuar o login, o utilizador entra por default no menu ''Criação Interlocutores SGES'' :
 
-![GestãodeUtilizadores](img/pages/cap16/16_1_0.jpg)
+![figGestãodeUtilizadores](img/pages/cap16/16_1_0.jpg)
 
 Como mostrado na figura anterior, os utilizadores do service desk pode criar interlocutores da entidade.
  
