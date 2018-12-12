@@ -13,7 +13,7 @@ order: 3
 # 16.Gestão de Utilizadores
 
 Neste módulo iremos apresentar de forma explicativa como proceder á Criação de um Interlocutor SGES e/ou a Criação de um Gestor INPS.
-Permite a identificação e gestão dos responsáveis pela manutenção do Inventário Nacional de profissionais de Saúde e serve como e fonte de entidades/estabelecimento para o INPS.
+Tem como objectivo a identificação e gestão dos responsáveis pela manutenção do Inventário Nacional de profissionais de Saúde e serve como e fonte de entidades/estabelecimento para o INPS.
 
 ## 16.1 Criação de Interlecutores SGES 
 
@@ -24,9 +24,9 @@ Após efectuar o login, o utilizador entra por default no menu **Criação Inter
 
 <p class="caption" id="figCriarInterlecutores"> Menu Principal </p>
 
-Os utilizadores do service desk podem criar interlocutores da entidade.
+Quem faz a criação dos interlecutores para o INPS são os utilizadores com o perfil do ServiceDesK.
  
-Utilizando o botão ''Atalho'' no canto superior esquerdo, tem como opção o menu **Gestão de Utilizadores**. Se clicar no menu vê:
+Utilizando o botão **Atalho** no canto superior esquerdo, tem como opção o menu **Gestão de Utilizadores**. Se clicar no menu vê:
 
 ![figgestãoutilizadores](img/pages/cap16/16_1_1.jpg)
 
@@ -38,7 +38,7 @@ Utilizando o botão ''Atalho'' no canto superior esquerdo, tem como opção o me
  
  <p class="caption" id="figCriarInterlecutores2"> Interlecutores SGES </p>
  
- É enviado um email ao email associado.
+ Automaticamente o utilizador recebe um email com as credências de acesso.
  
  Se a entidade já existe no SGES  é mostrada a mensagem:
  
@@ -46,15 +46,13 @@ Utilizando o botão ''Atalho'' no canto superior esquerdo, tem como opção o me
   
   <p class="caption" id="figmensagem1"> Entidade Registada e utilizador criado com sucesso </p>
   
-  E é enviado um e-mail ao utilizador com o perfil ADMIN_ENTIDADE.
+   Automaticamente o utilizador recebe um email com as credências de acesso.
 
   Se a entidade não existe no SGES  é mostrada a mensagem:    
   
   ![figmensagem2](img/pages/cap16/16_1_5.jpg)
    
   <p class="caption" id="figmensagem2"> Mensagem de aviso : Entidade não se encontra Registada no SGES </p>
-   
-  No caso de os dados serem enviados pela ERS a exitência deste mensagem não fará sentido.
    
   Se o utilizador carregar no botão **Confirmar** é mostrada a mensagem :
  
@@ -64,18 +62,19 @@ Utilizando o botão ''Atalho'' no canto superior esquerdo, tem como opção o me
 
 ## 16.2 Criação de Gestores INPS
 
-Ao identificar e autenticar no portal do SGES pode aceder às seguintes funcionalidades disponíveis : Entidade e Administração. 
+Ao identificar e autenticar no portal do SGES, com as credências enviadas pelo ServiceDesk, pode aceder às seguintes funcionalidades disponíveis : Entidade e Administração. 
+
 Com o perfil de administrador deve visualizar o seguinte no menu principal: 
 
 ![figmenuprincipal] (img/pages/cap16/16_0_1.jpg)
  
 <p class="caption" id="figmenuprincipal"> Menu Principal </p>
 
-Para criar um Gestor INPS é necessário na entidade pretendida já ter associado um estabelecimento. O utilizador pode clicar em CRIAR na página de Gestores INPS à que pode aceder através do menu Administração do menu principal.
+Para criar um Gestor INPS é necessário que na entidade pretendida ter no minimo um estabelecimento associado. O utilizador pode clicar em CRIAR na página de Gestores INPS a que pode aceder através do menu Administração do menu principal.
 
 Na Entidade e no Estabelecimento os dados referentes á informação tem de estar todos preenchidos, principalmente o Nº ERS e a Data de Início. 
 
- ##16.2.1 Identificação 
+ ###16.2.1 Identificação 
 
 ![figidentificacao](img/pages/cap16/16_0_3.jpg)
 
