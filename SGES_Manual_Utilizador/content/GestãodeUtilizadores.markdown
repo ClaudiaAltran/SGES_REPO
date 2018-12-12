@@ -36,7 +36,7 @@ No botão **Interlecutores SGES** é criado o Utiizador.
 
  Se o utilizador carregar no botão **Criar**  vê:
  
- ![figCriarInterlecutores2](img/pages/cap16/16_1_2.jpg)
+ ![figCriarInterlecutores2](img/pages/cap16/16_1_2.JPG)
  
  <p class="caption" id="figCriarInterlecutores2"> Interlecutores SGES </p>
  
@@ -44,7 +44,7 @@ No botão **Interlecutores SGES** é criado o Utiizador.
  
  Se a entidade já existe no SGES  é mostrada a mensagem:
  
-  ![figmensagem1](img/pages/cap16/16_1_4.jpg)
+  ![figmensagem1](img/pages/cap16/16_1_4.JPG)
   
   <p class="caption" id="figmensagem1"> Entidade Registada e utilizador criado com sucesso </p>
   
@@ -52,13 +52,13 @@ No botão **Interlecutores SGES** é criado o Utiizador.
 
   Se a entidade não existe no SGES  é mostrada a mensagem:    
   
-  ![figmensagem2](img/pages/cap16/16_1_5.jpg)
+  ![figmensagem2](img/pages/cap16/16_1_5.JPG)
    
   <p class="caption" id="figmensagem2"> Mensagem de aviso : Entidade não se encontra Registada no SGES </p>
    
   Se o utilizador carregar no botão **Confirmar** é mostrada a mensagem :
  
-  ![figmensagem3](img/pages/cap16/16_1_6.jpg) 
+  ![figmensagem3](img/pages/cap16/16_1_6.JPG) 
    
   <p class="caption" id="figmensagem3"> Mensagem de sucesso </p>
 
@@ -68,7 +68,7 @@ Ao identificar e autenticar no portal do SGES, com as credências enviadas pelo 
 
 Com o perfil de administrador deve visualizar o seguinte no menu principal: 
 
-![figmenuprincipal] (img/pages/cap16/16_0_1.jpg)
+![figmenuprincipal](img/pages/cap16/16_0_1.jpg)
  
 <p class="caption" id="figmenuprincipal"> Menu Principal </p>
 
