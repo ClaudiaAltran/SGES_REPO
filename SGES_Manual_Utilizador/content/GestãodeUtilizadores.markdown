@@ -85,7 +85,6 @@ Para exibir os **Estabelecimentos** associados à Entidade deve carregar na TAB 
  
 <p class="caption" id="figEstabelecimentos"> Estabelecimentos </p>
 
-
 O utilizador pode clicar em **CRIAR** na página dos estabelecimentos se pretender criar/associar um novo estabelecimento à entidade.
 Na Entidade e no Estabelecimento os dados referentes à sua informação devem estar todos preenchidos, principalmente o **Nº ERS** e a **Data de Início**. 
 
