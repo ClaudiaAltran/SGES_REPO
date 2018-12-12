@@ -74,7 +74,7 @@ Para criar um Gestor INPS é necessário que na entidade pretendida ter no minim
 
 Na Entidade e no Estabelecimento os dados referentes á informação tem de estar todos preenchidos, principalmente o Nº ERS e a Data de Início. 
 
- ###16.2.1 Identificação 
+ ### 16.2.1 Identificação ######
 
 ![figidentificacao](img/pages/cap16/16_0_3.jpg)
 
