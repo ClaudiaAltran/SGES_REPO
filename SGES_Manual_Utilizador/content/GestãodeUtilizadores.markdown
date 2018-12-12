@@ -18,7 +18,7 @@ Permite a identificação e gestão dos responsáveis pela manutenção do Inven
 ## 16.1 Criação de Interlecutores SGES 
 
 
-Após efectuar o login, o utilizador entra por default no menu ''Criação Interlocutores SGES'' :
+Após efectuar o login, o utilizador entra por default no menu **Criação Interlocutores SGES** :
 
 ![figCriarInterlecutores](img/pages/cap16/16_1_0.jpg)
 
@@ -26,13 +26,13 @@ Após efectuar o login, o utilizador entra por default no menu ''Criação Inter
 
 Os utilizadores do service desk podem criar interlocutores da entidade.
  
-Utilizando o botão ''Atalho'' no canto superior esquerdo, tem como opção o menu ''Gestão de Utilizadores''. Se clicar no menu vê:
+Utilizando o botão ''Atalho'' no canto superior esquerdo, tem como opção o menu **Gestão de Utilizadores**. Se clicar no menu vê:
 
 ![figgestãoutilizadores](img/pages/cap16/16_1_1.jpg)
 
 <p class="caption" id="figgestãoutilizadores"> Gestão de Utilizadores </p>
 
- Se o utilizador carregar no botão ''Criar''  vê:
+ Se o utilizador carregar no botão **Criar**  vê:
  
  ![figCriarInterlecutores2](img/pages/cap16/16_1_2.jpg)
  
@@ -56,7 +56,7 @@ Utilizando o botão ''Atalho'' no canto superior esquerdo, tem como opção o me
    
   No caso de os dados serem enviados pela ERS a exitência deste mensagem não fará sentido.
    
-  Se o utilizador carregar no botão ''Confirmar'' é mostrada a mensagem :
+  Se o utilizador carregar no botão **Confirmar** é mostrada a mensagem :
  
   ![figmensagem3](img/pages/cap16/16_1_6.jpg) 
    
@@ -90,7 +90,7 @@ Na Entidade e no Estabelecimento os dados referentes á informação tem de esta
 |                  | Data de Nascimento                  |
 |                  | Email                               |     
 
-Após o preenchimento dos campos obrigatórios indicados acima é necessário carregar no botão "SUBMETER":
+Após o preenchimento dos campos obrigatórios indicados acima é necessário carregar no botão **SUBMETER**:
 
 ![figCriarGestorINPS](img/pages/cap16/16_0_3.jpg)
 
