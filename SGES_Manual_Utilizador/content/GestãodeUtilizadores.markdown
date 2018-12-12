@@ -17,7 +17,6 @@ Tem como objectivo a identificação e gestão dos responsáveis pela manutenç�
 
 ## 16.1 Criação de Interlecutores SGES 
 
-
 Após efectuar o login, o utilizador entra por default no menu **Registo** :
 
 ![figMenuRegisto](img/pages/cap16/16_0_7.JPG)
@@ -64,7 +63,7 @@ No botão **Interlecutores SGES** é criado o Utiizador.
 
 ## 16.2 Criação de Gestores INPS
 
-Ao identificar e autenticar no portal do SGES, com as credências enviadas, pode aceder às seguintes funcionalidades disponíveis : **Entidade** e **Administração**. 
+Ao autenticar no portal do SGES com as credências enviadas, pode aceder às seguintes funcionalidades disponíveis : **Entidade** e **Administração**. 
 
 Com o perfil de administrador deve visualizar o seguinte no menu principal: 
 
