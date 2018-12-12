@@ -28,7 +28,7 @@ A criação dos interlecutores para o INPS são criados pelos utilizadores com o
  
 Ao carregar no botão **Utilizadores e Perfis** vê o seguinte : 
 
-![figUtilizadoresPerfis](img/pages/cap16/16_0_8.jpg)
+![figUtilizadoresPerfis](img/pages/cap16/16_0_8.JPG)
 
 <p class="caption" id="figUtilizadoresPerfis"> Utilizadores e perfis </p>
 
