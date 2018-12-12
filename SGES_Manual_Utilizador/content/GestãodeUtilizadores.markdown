@@ -90,7 +90,7 @@ Na Entidade e no Estabelecimento os dados referentes à sua informação devem e
 
  ### 16.2.1 Identificação ######
  
- Para criar um Getor INPS é necessário aceder ao menu principal ([](#fig87)) e carregar no botão **Administração** :
+ Para criar um Getor INPS é necessário aceder ao menu principal ((fig.87)) e carregar no botão **Administração** :
  
  ![figBotãoAdministração](img/pages/cap16/16_0_11.JPG)
  
