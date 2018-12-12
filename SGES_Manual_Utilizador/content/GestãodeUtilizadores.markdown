@@ -47,7 +47,7 @@ Utilizando o botão ''Atalho'' no canto superior esquerdo, tem como opção o me
   
    ![figmensagem2](img/pages/cap16/16_1_5.jpg)
    
-    <p class="caption" id="figmensagem2"> Mensagem de aviso : Entidade não se encontra Registada no SGES </p>
+   <p class="caption" id="figmensagem2"> Mensagem de aviso : Entidade não se encontra Registada no SGES </p>
    
    No caso de os dados serem enviados pela ERS a exitência deste mensagem não fará sentido.
    
@@ -55,7 +55,7 @@ Utilizando o botão ''Atalho'' no canto superior esquerdo, tem como opção o me
  
    ![figmensagem3](img/pages/cap16/16_1_6.jpg) 
    
-    <p class="caption" id="figmensagem3"> Mensagem de sucesso </p>
+   <p class="caption" id="figmensagem3"> Mensagem de sucesso </p>
 
 ## 16.2 Criação de Gestores INPS
 
