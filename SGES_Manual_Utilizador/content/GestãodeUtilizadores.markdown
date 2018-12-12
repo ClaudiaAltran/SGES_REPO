@@ -18,19 +18,21 @@ Tem como objectivo a identificação e gestão dos responsáveis pela manutenç�
 ## 16.1 Criação de Interlecutores SGES 
 
 
-Após efectuar o login, o utilizador entra por default no menu **Criação Interlocutores SGES** :
+Após efectuar o login, o utilizador entra por default no menu **Registo** :
 
-![figCriarInterlecutores](img/pages/cap16/16_1_0.jpg)
+![figMenuRegisto](img/pages/cap16/16_0_7.jpg)
 
-<p class="caption" id="figCriarInterlecutores"> Menu Principal </p>
+<p class="caption" id="figMenuRegisto"> Menu Principal - Registo </p>
 
-Quem faz a criação dos interlecutores para o INPS são os utilizadores com o perfil do ServiceDesK.
+A criação dos interlecutores para o INPS são criados pelos utilizadores com o perfil do ServiceDesK.
  
-Utilizando o botão **Atalho** no canto superior esquerdo, tem como opção o menu **Gestão de Utilizadores**. Se clicar no menu vê:
+Ao carregar no botão **Utilizadores e Perfis** vê o seguinte : 
 
-![figgestãoutilizadores](img/pages/cap16/16_1_1.jpg)
+![figUtilizadoresPerfis](img/pages/cap16/16_0_8.jpg)
 
-<p class="caption" id="figgestãoutilizadores"> Gestão de Utilizadores </p>
+<p class="caption" id="figUtilizadoresPerfis"> Utilizadores e perfis </p>
+
+No botão **Interlecutores SGES** é criado o Utiizador.
 
  Se o utilizador carregar no botão **Criar**  vê:
  
