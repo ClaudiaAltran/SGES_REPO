@@ -113,7 +113,7 @@ Dever carregar no Botão "Criar" e preencher os campos obrigatórios identificad
 
 Após o preenchimento dos campos obrigatórios indicados acima é necessário carregar no botão **SUBMETER**:
 
-![figDadosObrigatoriosGestor](img/pages/cap16/16_0_14.jpg)
+![figDadosObrigatoriosGestor](img/pages/cap16/16_0_14.JPG)
 
 <p class="caption" id="figDadosObrigatoriosGestor"> Gestor INPS criado com sucesso</p
 
