@@ -23,34 +23,25 @@ Após efectuar o login, o utilizador entra por default no menu **Registo** :
 
 <p class="caption" id="figMenuRegisto"> Menu Principal - Registo </p>
 
-A criação dos interlecutores para o INPS são criados pelos utilizadores com o perfil do ServiceDesK.
- 
-Ao carregar no botão **Utilizadores e Perfis** vê o seguinte : 
+A criação dos interlecutores para o INPS são criados pelos utilizadores com o perfil do ServiceDesK. Ao carregar no botão **Utilizadores e Perfis** vê o seguinte : 
 
 ![figUtilizadoresPerfis](img/pages/cap16/16_0_8.JPG)
 
 <p class="caption" id="figUtilizadoresPerfis"> Utilizadores e perfis </p>
 
-No botão **Interlecutores SGES** é criado o Utiizador.
-
- Se o utilizador carregar no botão **Criar**  vê:
+No botão **Interlecutores SGES** é criado o Utiizador. Se o utilizador carregar no botão **Criar**  vê:
  
  ![figCriarInterlecutores2](img/pages/cap16/16_1_2.JPG)
  
  <p class="caption" id="figCriarInterlecutores2"> Interlecutores SGES </p>
  
- Automaticamente o utilizador recebe um email com as credências de acesso.
- 
- Se a entidade já existe no SGES  é mostrada a mensagem:
+ Automaticamente o utilizador recebe um email com as credências de acesso. Se a entidade já existe no SGES  é mostrada a mensagem:
  
   ![figmensagem1](img/pages/cap16/16_1_4.JPG)
   
   <p class="caption" id="figmensagem1"> Entidade Registada e utilizador criado com sucesso </p>
   
-   Automaticamente o utilizador recebe um email com as credências de acesso.
-
-  Se a entidade não existe no SGES  é mostrada a mensagem:    
-  
+   Automaticamente o utilizador recebe um email com as credências de acesso. Se a entidade não existe no SGES  é mostrada a mensagem:    
   ![figmensagem2](img/pages/cap16/16_1_5.JPG)
    
   <p class="caption" id="figmensagem2"> Mensagem de aviso : Entidade não se encontra Registada no SGES </p>
@@ -71,9 +62,7 @@ Com o perfil de administrador deve visualizar o seguinte no menu principal:
  
 <p class="caption" id="figmenuprincipal"> Menu Principal </p>
 
-Para criar um Gestor INPS é necessário que na entidade pretendida ter no minimo um estabelecimento associado. 
-
-Para exibir a entidade deve carregar no botão **Entidade**, visualizando o seguinte :
+Para criar um Gestor INPS é necessário que na entidade pretendida ter no minimo um estabelecimento associado.  Para exibir a entidade deve carregar no botão **Entidade**, visualizando o seguinte :
 
 ![figEntidade](img/pages/cap16/16_0_9.JPG)
  
