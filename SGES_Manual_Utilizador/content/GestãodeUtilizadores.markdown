@@ -121,14 +121,14 @@ Gestor INPS criado com sucesso e associado à entidade pretendida.
 | Gestor INPS      | Nome/ Designação                    |
 |                  | Data de Nascimento                  |
 
-Para Editar o Nome ou a data de nascimento é necessario aceder a pagina identificada na figura 89 (), selecionar o Gestor pretendido e carregar no botão **EDITAR**.
+Para Editar o Nome ou a data de nascimento é necessario aceder a pagina identificada na figura 89 ([](#figEstabelecimentos)), selecionar o Gestor pretendido e carregar no botão **EDITAR**.
 
 ![figEditarGestor](img/pages/cap16/16_0_15.JPG)
 
 <p id="AssociarGestor"></p>
 ### 16.2.3 Associar Estabelecimento a um Gestor 
 
-É possivel atribuir ou retirar um estabelecimento associado a um getor INPS. É necessario aceder a página identificada na figura 89 (), selecionar o gestor pretendido e carregar no botão **EDITAR** .
+É possivel atribuir ou retirar um estabelecimento associado a um getor INPS. É necessario aceder a página identificada na figura 89 ([](#figEstabelecimentos)), selecionar o gestor pretendido e carregar no botão **EDITAR** .
 
 Ao exibir os dados pode-se selecionar ou retirar estabelecimentos associados a um gestor e de seguida carregar no botão **SUBMETER** .
 
