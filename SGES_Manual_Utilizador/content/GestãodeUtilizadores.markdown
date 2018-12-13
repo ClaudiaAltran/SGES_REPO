@@ -137,10 +137,10 @@ Ao exibir os dados pode-se adicionar ou retirar estabelecimentos associados a um
 
 
 <p id="EditarEntidadeINPS"></p>
-### 16.2.4 Editar Entidade 
+### 16.2.3 Editar Entidade 
 
 <p id="EditarEstabelecimentoINPS"></p>
-### 16.2.5 Editar Estabelecimento 
+### 16.2.4 Editar Estabelecimento 
 
 
 
