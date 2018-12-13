@@ -42,7 +42,7 @@ No botão **Interlocutores SGES** é criado o utilizador. Se o utilizador carreg
   
   <p class="caption" id="figmensagem1"> Entidade Registada e utilizador criado com sucesso </p>
   
-   Automaticamente o utilizador recebe um email com as credências de acesso. Se a entidade não existe no SGES é mostrada a mensagem: 
+  Se a entidade não se encontrar registada no SGES, é apresentada a seguinte mensagem de aviso : 
    
   ![figmensagem2](img/pages/cap16/16_1_5.JPG)
    
