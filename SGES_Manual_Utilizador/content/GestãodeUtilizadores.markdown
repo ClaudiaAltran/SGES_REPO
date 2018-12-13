@@ -68,7 +68,7 @@ Para criar um Gestor INPS é necessário que na entidade pretendida ter no minim
  
 <p class="caption" id="figEntidade"> Entidade </p>
 
-Para exibir os **Estabelecimentos** associados à Entidade deve carregar na TAB visivel na imagem anterior **Estabelecimentos** : 
+Para exibir os **Estabelecimentos** associados à Entidade deve carregar tab visível na imagem anterior **Estabelecimentos** : 
 
 ![figEstabelecimentos](img/pages/cap16/16_0_10.JPG)
  
@@ -77,7 +77,7 @@ Para exibir os **Estabelecimentos** associados à Entidade deve carregar na TAB 
 O utilizador pode clicar em **CRIAR** na página dos estabelecimentos se pretender criar/associar um novo estabelecimento à entidade.
 Na Entidade e no Estabelecimento os dados referentes à sua informação devem estar todos preenchidos, principalmente o **Nº ERS** e a **Data de Início**. 
 
-## 16.2.1 Identificação  
+## 16.2.1 Identificação
  
  Para criar um Getor INPS é necessário aceder ao menu principal ([](#figmenuprincipal)) e carregar no botão **Administração** :
  
@@ -85,26 +85,51 @@ Na Entidade e no Estabelecimento os dados referentes à sua informação devem e
  
 <p class="caption" id="figBotãoAdministração"> Administração </p>
 
-De seguida deve carregar no botao **Gestores INPS** onde é visivel o seguinte : 
+De seguida deve carregar no botão **Gestores INPS** onde é visivel o seguinte : 
 
 ![figBotãocriarGestor1](img/pages/cap16/16_0_13.JPG)
 
 <p class="caption" id="figBotãocriarGestor1">Criar Gestor INPS</p>
 
-Dever carregar no Botão "Criar" e preencher os campos obrigatórios identificados:
+Dever carregar no botão **Criar** e preencher os campos obrigatórios identificados:
 
 |                  |Campos Obrigatórios na criação       | 
 |------------------|-------------------------------------|
 | Gestor INPS      | Nome                                |
 |                  | BI/CC                               |
 |                  | Data de Nascimento                  |
-|                  | Email                               |     
+|                  | E-mail                               |     
 
 Após o preenchimento dos campos obrigatórios indicados acima é necessário carregar no botão **SUBMETER**:
 
 ![figDadosObrigatoriosGestor](img/pages/cap16/16_0_14.JPG)
 
 <p class="caption" id="figDadosObrigatoriosGestor"> Gestor INPS criado com sucesso </p>
+
+Gestor INPS criado com sucesso e associado à entidade pretendida.
+
+### 16.2.2 Alteração dos Dados do Gestor INPS
+
+É possivel efectuar a alteração dos dados do Gestor INPS :
+
+|                  |Editar Gestor INPS                   | 
+|------------------|-------------------------------------|
+| Gestor INPS      | Nome/ Designação                    |
+|                  | Data de Nascimento                  |
+
+Para Editar o Nome ou a data de nascimento é necessario aceder a pagina identificada na figura 89 (), selecionar o Gestor pretendido e carregar no botão **EDITAR**.
+
+![figEditarGestor](img/pages/cap16/16_0_15.JPG)
+
+### 16.2.3 Adicionar Estabelecimentos a um Gestor 
+
+É possivel atribuir ou retirar um estabelecimento associado a um getor INPS. É necessario aceder a página identificada na figura 89 (), selecionar o gestor pretendido e carregar no botão **EDITAR** .
+
+Ao exibir os dados pode-se selecionar ou retirar estabelecimentos associados a um gestor e de seguida carregar no botão **SUBMETER** .
+
+![figAlteracaogestor](img/pages/cap16/16_0_16.JPG)
+
+
 
 
 
