@@ -139,9 +139,23 @@ Ao exibir os dados pode-se adicionar ou retirar estabelecimentos associados a um
 <p id="EditarEntidadeINPS"></p>
 ### 16.2.3 Editar Entidade 
 
+O utilizador pode editar a Entidade no botão **EDITAR ENTIDADE**, de forma a comunicar com o INPS deve alterar os seguintes campos: 
+
+|                  |Editar Entidade                      | 
+|------------------|-------------------------------------|
+| Entidade         | Nome/ Designação                    |
+|                  | Data de Inicio de ACtividade        |
+|                  | E-mail                              |
+
+
 <p id="EditarEstabelecimentoINPS"></p>
 ### 16.2.4 Editar Estabelecimento 
 
+
+|                  |Editar Estabelecimento               | 
+|------------------|-------------------------------------|
+| Estabelecimento  | Nome/ Designação                    |
+|                  | E-mail                              |
 
 
 
