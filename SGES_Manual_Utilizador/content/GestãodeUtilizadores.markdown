@@ -115,7 +115,7 @@ Após o preenchimento dos campos obrigatórios indicados acima é necessário ca
 
 ![figDadosObrigatoriosGestor](img/pages/cap16/16_0_14.JPG)
 
-<p class="caption" id="figDadosObrigatoriosGestor"> Gestor INPS criado com sucesso</p
+<p class="caption" id="figDadosObrigatoriosGestor"> Gestor INPS criado com sucesso </p>
 
 
 
