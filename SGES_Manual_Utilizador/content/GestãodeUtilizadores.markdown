@@ -151,7 +151,7 @@ O utilizador pode editar a Entidade no botão **EDITAR ENTIDADE**, de forma a co
 <p id="EditarEstabelecimentoINPS"></p>
 ### 16.2.4 Editar Estabelecimento 
 
-O utilizador pode editar a Entidade no botão **EDITAR ESTAbELECIMENTO**, de forma a comunicar com o INPS deve alterar os seguintes campos:
+O utilizador pode editar a Entidade no botão **EDITAR ESTABELECIMENTO**, de forma a comunicar com o INPS deve alterar os seguintes campos:
 
 |                  |Editar Estabelecimento               | 
 |------------------|-------------------------------------|
