@@ -16,7 +16,7 @@ Neste módulo é apresentado de forma explicativa como proceder à Criação de 
 Tem como objetivo a identificação e gestão dos responsáveis pela manutenção do Inventário Nacional de profissionais de Saúde e serve como e fonte de entidades/estabelecimento para o INPS.
 
 <p id="CriarInterlecutores"></p>
-## 16.1 Criação de Interlecutores SGES 
+## 16.1 Criação de Interlocutores SGES 
 
 Após efetuar o login, o utilizador entra por default no menu **Registo** :
 
