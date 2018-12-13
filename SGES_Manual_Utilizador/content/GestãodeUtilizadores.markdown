@@ -12,7 +12,7 @@ order: 3
 
 # 16.Gestão de Utilizadores
 
-Neste módulo iremos apresentar de forma explicativa como proceder á Criação de um Interlocutor SGES e/ou a Criação de um Gestor INPS, alteração dos dados do gestor, associar um gestor a um estabelecimento, editar entidade e editar estabelecimento.
+Neste módulo iremos apresentar de forma explicativa como proceder á Criação de um Interlocutor SGES e/ou a Criação de um Gestor INPS, alteração dos dados do gestor, Associar um gestor a um estabelecimento e Editar entidade e estabelecimento.
 Tem como objetivo a identificação e gestão dos responsáveis pela manutenção do Inventário Nacional de profissionais de Saúde e serve como e fonte de entidades/estabelecimento para o INPS.
 
 <p id="CriarInterlecutores"></p>
