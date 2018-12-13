@@ -136,10 +136,10 @@ Ao exibir os dados pode-se adicionar ou retirar estabelecimentos associados a um
 ![figAlteracaogestor](img/pages/cap16/16_0_16.JPG)
 
 
-
+<p id="EditarEntidadeINPS"></p>
 ### 16.2.4 Editar Entidade 
 
-
+<p id="EditarEstabelecimentoINPS"></p>
 ### 16.2.5 Editar Estabelecimento 
 
 
