@@ -7,7 +7,7 @@ updated_on: 2015-10-06
 translation_priority: 1
 order: 3
 ---
-<p></p>
+
 <p id="GestãodeUtilizadores"></p>
 
 # 16.Gestão de Utilizadores
@@ -15,6 +15,7 @@ order: 3
 Neste módulo iremos apresentar de forma explicativa como proceder á Criação de um Interlocutor SGES e/ou a Criação de um Gestor INPS.
 Tem como objectivo a identificação e gestão dos responsáveis pela manutenção do Inventário Nacional de profissionais de Saúde e serve como e fonte de entidades/estabelecimento para o INPS.
 
+<p id="CriarInterlecutores"></p>
 ## 16.1 Criação de Interlecutores SGES 
 
 Após efectuar o login, o utilizador entra por default no menu **Registo** :
@@ -51,7 +52,8 @@ No botão **Interlecutores SGES** é criado o Utiizador. Se o utilizador carrega
   ![figmensagem3](img/pages/cap16/16_1_6.JPG) 
    
   <p class="caption" id="figmensagem3"> Mensagem de sucesso </p>
-
+  
+<p id="CriarGestor"></p>
 ## 16.2 Criação de Gestores INPS
 
 Ao autenticar no portal do SGES com as credências enviadas, pode aceder às seguintes funcionalidades disponíveis : **Entidade** e **Administração**. 
@@ -77,6 +79,7 @@ Para exibir os **Estabelecimentos** associados à Entidade deve carregar tab vis
 O utilizador pode clicar em **CRIAR** na página dos estabelecimentos se pretender criar/associar um novo estabelecimento à entidade.
 Na Entidade e no Estabelecimento os dados referentes à sua informação devem estar todos preenchidos, principalmente o **Nº ERS** e a **Data de Início**. 
 
+<p id="IdentificacaoGestor"></p>
 ## 16.2.1 Identificação
  
  Para criar um Getor INPS é necessário aceder ao menu principal ([](#figmenuprincipal)) e carregar no botão **Administração** :
@@ -108,6 +111,7 @@ Após o preenchimento dos campos obrigatórios indicados acima é necessário ca
 
 Gestor INPS criado com sucesso e associado à entidade pretendida.
 
+<p id="AlterarGestor"></p>
 ### 16.2.2 Alteração dos Dados do Gestor INPS
 
 É possivel efectuar a alteração dos dados do Gestor INPS :
@@ -121,7 +125,8 @@ Para Editar o Nome ou a data de nascimento é necessario aceder a pagina identif
 
 ![figEditarGestor](img/pages/cap16/16_0_15.JPG)
 
-### 16.2.3 Adicionar Estabelecimentos a um Gestor 
+<p id="AssociarGestor"></p>
+### 16.2.3 Associar Estabelecimento a um Gestor 
 
 É possivel atribuir ou retirar um estabelecimento associado a um getor INPS. É necessario aceder a página identificada na figura 89 (), selecionar o gestor pretendido e carregar no botão **EDITAR** .
 
