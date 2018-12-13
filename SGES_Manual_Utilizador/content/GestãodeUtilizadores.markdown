@@ -92,16 +92,15 @@ Na Entidade e no Estabelecimento os dados referentes à sua informação devem e
  
  Para criar um Getor INPS é necessário aceder ao menu principal (fig.87) e carregar no botão **Administração** :
  
- ![figBotãoAdministração](img/pages/cap16/16_0_11.JPG)
+ ![figBotãoAdministração](img/pages/cap16/16_0_12.JPG)
  
 <p class="caption" id="figBotãoAdministração"> Administração </p>
 
+De seguida deve carregar no botao **Gestores INPS** onde é visivel o seguinte : 
 
-FAZER
+![figBotãocriarGestor1](img/pages/cap16/16_0_13.JPG)
 
-![figidentificacao](img/pages/cap16/16_0_3.jpg)
-
-<p class="caption" id="figidentificacao">Criar Gestor INPS</p>
+<p class="caption" id="figBotãocriarGestor1">Criar Gestor INPS</p>
 
 É obrigatório o preenchimento dos campos identificados:
 
