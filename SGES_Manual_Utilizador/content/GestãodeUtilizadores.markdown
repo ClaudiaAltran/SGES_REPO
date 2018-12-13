@@ -137,6 +137,11 @@ Ao exibir os dados pode-se adicionar ou retirar estabelecimentos associados a um
 
 
 
+### 16.2.4 Editar Entidade 
+
+
+### 16.2.5 Editar Estabelecimento 
+
 
 
 
