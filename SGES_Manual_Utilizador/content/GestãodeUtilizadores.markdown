@@ -30,7 +30,7 @@ A criação dos interlocutores para o INPS é pelos utilizadores com o perfil do
 
 <p class="caption" id="figUtilizadoresPerfis"> Utilizadores e perfis </p>
 
-No botão **Interlocutores SGES** é criado o utilizador. Se o utilizador carregar no botão **Criar**  visualiza o seguinte:
+No botão **Interlocutores SGES** é criado o utilizador,se  carregar no botão **Criar**  visualiza o seguinte:
  
  ![figCriarInterlecutores2](img/pages/cap16/16_1_2.JPG)
  
