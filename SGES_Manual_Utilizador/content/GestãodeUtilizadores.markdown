@@ -97,12 +97,12 @@ De seguida deve carregar no botão **Gestores INPS** onde é visível o seguinte
 
 Deve carregar no botão **Criar** e preencher os campos obrigatórios identificados:
 
-|                  |Campos Obrigatórios na criação       | 
+|                  |Campos Obrigatórios                  | 
 |------------------|-------------------------------------|
 | Gestor INPS      | Nome                                |
 |                  | BI/CC                               |
 |                  | Data de Nascimento                  |
-|                  | E-mail                               |     
+|                  | E-mail                              |     
 
 Após o preenchimento dos campos obrigatórios indicados acima é necessário carregar no botão **SUBMETER**:
 
