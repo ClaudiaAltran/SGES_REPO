@@ -13,41 +13,42 @@ order: 3
 # 16.Gestão de Utilizadores
 
 Neste módulo iremos apresentar de forma explicativa como proceder á Criação de um Interlocutor SGES e/ou a Criação de um Gestor INPS.
-Tem como objectivo a identificação e gestão dos responsáveis pela manutenção do Inventário Nacional de profissionais de Saúde e serve como e fonte de entidades/estabelecimento para o INPS.
+Tem como objetivo a identificação e gestão dos responsáveis pela manutenção do Inventário Nacional de profissionais de Saúde e serve como e fonte de entidades/estabelecimento para o INPS.
 
 <p id="CriarInterlecutores"></p>
 ## 16.1 Criação de Interlecutores SGES 
 
-Após efectuar o login, o utilizador entra por default no menu **Registo** :
+Após efetuar o login, o utilizador entra por default no menu **Registo** :
 
 ![figMenuRegisto](img/pages/cap16/16_0_7.JPG)
 
 <p class="caption" id="figMenuRegisto"> Menu Principal - Registo </p>
 
-A criação dos interlecutores para o INPS são criados pelos utilizadores com o perfil do ServiceDesK. Ao carregar no botão **Utilizadores e Perfis** vê o seguinte : 
+A criação dos interlocutores para o INPS é pelos utilizadores com o perfil do ServiceDesK. Ao carregar no botão **Utilizadores e Perfis** visualizam o seguinte: 
 
 ![figUtilizadoresPerfis](img/pages/cap16/16_0_8.JPG)
 
 <p class="caption" id="figUtilizadoresPerfis"> Utilizadores e perfis </p>
 
-No botão **Interlecutores SGES** é criado o Utiizador. Se o utilizador carregar no botão **Criar**  vê:
+No botão **Interlocutores SGES** é criado o utilizador. Se o utilizador carregar no botão **Criar**  visualiza o seguinte:
  
  ![figCriarInterlecutores2](img/pages/cap16/16_1_2.JPG)
  
  <p class="caption" id="figCriarInterlecutores2"> Interlecutores SGES </p>
  
- Automaticamente o utilizador recebe um email com as credências de acesso. Se a entidade já existe no SGES  é mostrada a mensagem:
+ Automaticamente o utilizador recebe um email com as credências de acesso. Se a entidade já existe no SGES é mostrada a mensagem:
  
   ![figmensagem1](img/pages/cap16/16_1_4.JPG)
   
   <p class="caption" id="figmensagem1"> Entidade Registada e utilizador criado com sucesso </p>
   
-   Automaticamente o utilizador recebe um email com as credências de acesso. Se a entidade não existe no SGES  é mostrada a mensagem:    
+   Automaticamente o utilizador recebe um email com as credências de acesso. Se a entidade não existe no SGES é mostrada a mensagem: 
+   
   ![figmensagem2](img/pages/cap16/16_1_5.JPG)
    
   <p class="caption" id="figmensagem2"> Mensagem de aviso : Entidade não se encontra Registada no SGES </p>
    
-  Se o utilizador carregar no botão **Confirmar** é mostrada a mensagem :
+  Se o utilizador carregar no botão **Confirmar** é apresentada a mensagem :
  
   ![figmensagem3](img/pages/cap16/16_1_6.JPG) 
    
@@ -56,7 +57,7 @@ No botão **Interlecutores SGES** é criado o Utiizador. Se o utilizador carrega
 <p id="CriarGestor"></p>
 ## 16.2 Criação de Gestores INPS
 
-Ao autenticar no portal do SGES com as credências enviadas, pode aceder às seguintes funcionalidades disponíveis : **Entidade** e **Administração**. 
+Ao autenticar no portal do SGES com as credências enviadas, pode aceder às seguintes funcionalidades disponíveis: **Entidade** e **Administração**. 
 
 Com o perfil de administrador deve visualizar o seguinte no menu principal: 
 
@@ -64,13 +65,13 @@ Com o perfil de administrador deve visualizar o seguinte no menu principal:
  
 <p class="caption" id="figmenuprincipal"> Menu Principal </p>
 
-Para criar um Gestor INPS é necessário que na entidade pretendida ter no minimo um estabelecimento associado.  Para exibir a entidade deve carregar no botão **Entidade**, visualizando o seguinte :
+Para criar um Gestor INPS é necessário que na entidade pretendida ter no mínimo um estabelecimento associado.  Para exibir a entidade deve carregar no botão **Entidade**, visualizando o seguinte:
 
 ![figEntidade](img/pages/cap16/16_0_9.JPG)
  
 <p class="caption" id="figEntidade"> Entidade </p>
 
-Para exibir os **Estabelecimentos** associados à Entidade deve carregar tab visível na imagem anterior **Estabelecimentos** : 
+Para exibir os **Estabelecimentos** associados à Entidade deve carregar no botão visível na imagem anterior **Estabelecimentos**: 
 
 ![figEstabelecimentos](img/pages/cap16/16_0_10.JPG)
  
@@ -82,19 +83,19 @@ Na Entidade e no Estabelecimento os dados referentes à sua informação devem e
 <p id="IdentificacaoGestor"></p>
 ## 16.2.1 Identificação
  
- Para criar um Getor INPS é necessário aceder ao menu principal ([](#figmenuprincipal)) e carregar no botão **Administração** :
+ Para criar um Gestor INPS é necessário aceder ao menu principal ([](#figmenuprincipal)) e carregar no botão **Administração**:
  
  ![figBotãoAdministração](img/pages/cap16/16_0_12.JPG)
  
 <p class="caption" id="figBotãoAdministração"> Administração </p>
 
-De seguida deve carregar no botão **Gestores INPS** onde é visivel o seguinte : 
+De seguida deve carregar no botão **Gestores INPS** onde é visível o seguinte: 
 
 ![figBotãocriarGestor1](img/pages/cap16/16_0_13.JPG)
 
 <p class="caption" id="figBotãocriarGestor1">Criar Gestor INPS</p>
 
-Dever carregar no botão **Criar** e preencher os campos obrigatórios identificados:
+Deve carregar no botão **Criar** e preencher os campos obrigatórios identificados:
 
 |                  |Campos Obrigatórios na criação       | 
 |------------------|-------------------------------------|
@@ -114,23 +115,23 @@ Gestor INPS criado com sucesso e associado à entidade pretendida.
 <p id="AlterarGestor"></p>
 ### 16.2.2 Alteração dos Dados do Gestor INPS
 
-É possivel efectuar a alteração dos dados do Gestor INPS :
+É possível efetuar a alteração dos dados do Gestor INPS:
 
 |                  |Editar Gestor INPS                   | 
 |------------------|-------------------------------------|
 | Gestor INPS      | Nome/ Designação                    |
 |                  | Data de Nascimento                  |
 
-Para Editar o Nome ou a data de nascimento é necessario aceder a pagina identificada na figura 89 ([](#figEstabelecimentos)), selecionar o Gestor pretendido e carregar no botão **EDITAR**.
+Para editar o **Nome** e/ou a **Data de Nascimento** é necessário aceder a página identificada na figura 89 ([](#figEstabelecimentos)), selecionar o Gestor pretendido e carregar no botão **EDITAR**.
 
 ![figEditarGestor](img/pages/cap16/16_0_15.JPG)
 
 <p id="AssociarGestor"></p>
 ### 16.2.3 Associar Estabelecimento a um Gestor 
 
-É possivel atribuir ou retirar um estabelecimento associado a um getor INPS. É necessario aceder a página identificada na figura 89 ([](#figEstabelecimentos)), selecionar o gestor pretendido e carregar no botão **EDITAR** .
+É possível atribuir ou retirar um estabelecimento associado a um Gestor INPS. É necessário aceder à página identificada na figura 89 ([](#figEstabelecimentos)), selecionar o gestor pretendido e carregar no botão **EDITAR** .
 
-Ao exibir os dados pode-se selecionar ou retirar estabelecimentos associados a um gestor e de seguida carregar no botão **SUBMETER** .
+Ao exibir os dados pode-se adicionar ou retirar estabelecimentos associados a um gestor e de seguida carregar no botão **SUBMETER** .
 
 ![figAlteracaogestor](img/pages/cap16/16_0_16.JPG)
 
