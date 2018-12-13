@@ -88,7 +88,7 @@ Para exibir os **Estabelecimentos** associados à Entidade deve carregar na TAB 
 O utilizador pode clicar em **CRIAR** na página dos estabelecimentos se pretender criar/associar um novo estabelecimento à entidade.
 Na Entidade e no Estabelecimento os dados referentes à sua informação devem estar todos preenchidos, principalmente o **Nº ERS** e a **Data de Início**. 
 
-  ## 16.2.1 Identificação  ## 
+  ## 16.2.1 Identificação  
  
  Para criar um Getor INPS é necessário aceder ao menu principal (fig.87) e carregar no botão **Administração** :
  
@@ -102,7 +102,7 @@ De seguida deve carregar no botao **Gestores INPS** onde é visivel o seguinte :
 
 <p class="caption" id="figBotãocriarGestor1">Criar Gestor INPS</p>
 
-É obrigatório o preenchimento dos campos identificados:
+Dever carregar no Botão "Criar" e preencher os campos obrigatórios identificados:
 
 |                  |Campos Obrigatórios na criação       | 
 |------------------|-------------------------------------|
@@ -113,7 +113,7 @@ De seguida deve carregar no botao **Gestores INPS** onde é visivel o seguinte :
 
 Após o preenchimento dos campos obrigatórios indicados acima é necessário carregar no botão **SUBMETER**:
 
-![figCriarGestorINPS](img/pages/cap16/16_0_3.jpg)
+![figCriarGestorINPS](img/pages/cap16/16_0_14.jpg)
 
 <p class="caption" id="CriarGestorINPS">Gestor INPS criado com sucesso</p>
 
