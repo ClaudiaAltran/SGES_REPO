@@ -144,13 +144,14 @@ O utilizador pode editar a Entidade no botão **EDITAR ENTIDADE**, de forma a co
 |                  |Editar Entidade                      | 
 |------------------|-------------------------------------|
 | Entidade         | Nome/ Designação                    |
-|                  | Data de Inicio de ACtividade        |
+|                  | Data de Inicio de Actividade        |
 |                  | E-mail                              |
 
 
 <p id="EditarEstabelecimentoINPS"></p>
 ### 16.2.4 Editar Estabelecimento 
 
+O utilizador pode editar a Entidade no botão **EDITAR Estabelecimento**, de forma a comunicar com o INPS deve alterar os seguintes campos:
 
 |                  |Editar Estabelecimento               | 
 |------------------|-------------------------------------|
