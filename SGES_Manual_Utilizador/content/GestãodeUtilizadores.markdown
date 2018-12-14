@@ -134,7 +134,12 @@ Para editar o **Nome** e/ou a **Data de Nascimento** é necessário aceder a pá
 Ao exibir os dados pode-se adicionar ou retirar estabelecimentos associados a um gestor e de seguida carregar no botão **SUBMETER** .
 
 ![figAlteracaogestor](img/pages/cap16/16_0_16.JPG)
+<p class="caption" id="figAlteracaogestor"> Editar Gestor </p>
 
+Para visualizar os estabelecimentos que estão associados a um gestor é necessário aceder a Gestão de utilizadores, figura XX() e carregar no botão **Associação entre Estabelecimentos e Utilizadores INPS** :
+
+![figAssociarGestor1](img/pages/cap16/16_1_7.JPG)
+<p class="caption" id="figAssociarGestor1"> Associação entre Estabelecimentos e Utilizadores INPS </p>
 
 <p id="EditarEntidadeINPS"></p>
 ### 16.2.3 Editar Entidade 
