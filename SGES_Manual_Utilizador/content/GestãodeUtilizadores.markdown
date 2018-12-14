@@ -139,7 +139,7 @@ Ao exibir os dados pode-se adicionar ou retirar estabelecimentos associados a um
 <p id="EditarEntidadeINPS"></p>
 ### 16.2.3 Editar Entidade 
 
-Na figura 88 ([](#figEntidade)) é visivel como exibir a Entidade.
+Na figura 88 ([](#figEntidade)) é visivel a Entidade.
 O utilizador pode editar a Entidade no botão **EDITAR ENTIDADE**, de forma a comunicar com o INPS deve alterar os seguintes campos: 
 
 |                  |Editar Entidade                      | 
@@ -152,7 +152,7 @@ O utilizador pode editar a Entidade no botão **EDITAR ENTIDADE**, de forma a co
 <p id="EditarEstabelecimentoINPS"></p>
 ### 16.2.4 Editar Estabelecimento 
 
-Na figura 89 ([](#figEstabelecimentos)) é visivel como exibir a Entidade.
+Na figura 89 ([](#figEstabelecimentos)) é visivel a Entidade.
 O utilizador pode editar o Estabelecimento no botão **EDITAR ESTABELECIMENTO**, de forma a comunicar com o INPS deve alterar os seguintes campos:
 
 |                  |Editar Estabelecimento               | 
@@ -160,8 +160,7 @@ O utilizador pode editar o Estabelecimento no botão **EDITAR ESTABELECIMENTO**,
 | Estabelecimento  | Nome/ Designação                    |
 |                  | E-mail                              |
 
-
-
+Os campos indicados quando editados os dados são actualizados automaticamento no sistema do INPS, assim os dados ficam nivelados.
 
 
 
