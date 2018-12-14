@@ -36,7 +36,7 @@ No botão **Interlocutores SGES** é criado o utilizador,se  carregar no botão 
  
  <p class="caption" id="figCriarInterlecutores2"> Interlocutores SGES </p>
  
- Automaticamente o utilizador recebe um email com as credências de acesso. Se a entidade já existe no SGES é mostrada a mensagem:
+Automaticamente o utilizador recebe um email com as credências de acesso. Se a entidade já existe no SGES é apresentada a seguinte mensagem:
  
   ![figmensagem1](img/pages/cap16/16_1_4.JPG)
   
