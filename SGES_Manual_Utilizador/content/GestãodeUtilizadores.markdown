@@ -57,7 +57,7 @@ No botão **Interlocutores SGES** é criado o utilizador,se  carregar no botão 
 <p id="CriarGestor"></p>
 ## 16.2 Criação de Gestores INPS
 
-Ao autenticar no portal do SGES com as credências enviadas, pode aceder às seguintes funcionalidades disponíveis: **Entidade** e **Administração**. 
+Ao autenticar no portal do SGES com as credências enviadas por email, pode aceder às seguintes funcionalidades disponíveis: **Entidade** e **Administração**. 
 
 Com o perfil de administrador deve visualizar o seguinte no menu principal: 
 
