@@ -160,7 +160,7 @@ O utilizador pode editar o Estabelecimento no botão **EDITAR ESTABELECIMENTO**,
 | Estabelecimento  | Nome/ Designação                    |
 |                  | E-mail                              |
 
-Os campos indicados quando editados os dados são actualizados automaticamento no sistema do INPS, assim os dados ficam nivelados.
+Os campos indicados quando editados são actualizados automaticamente no sistema do INPS, tendo assim dados sempre nivelados.
 
 
 
