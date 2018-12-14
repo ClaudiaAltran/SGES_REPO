@@ -2,8 +2,8 @@
 layout: default
 title: "Your first markdown webPage using git"
 description: "index page how to show markdown files on html."
-published_on: 2015-09-30
-updated_on: 2015-10-06
+published_on: 2018-11-12
+updated_on: 2018-11-12
 translation_priority: 1
 order: 3
 ---
@@ -139,7 +139,7 @@ Ao exibir os dados pode-se adicionar ou retirar estabelecimentos associados a um
 <p id="EditarEntidadeINPS"></p>
 ### 16.2.3 Editar Entidade 
 
-Na figura 88 ([](figEntidade)) é visivel de como exibir a Entidade.
+Na figura 88 ([](figEntidade)) é visivel como exibir a Entidade.
 O utilizador pode editar a Entidade no botão **EDITAR ENTIDADE**, de forma a comunicar com o INPS deve alterar os seguintes campos: 
 
 |                  |Editar Entidade                      | 
@@ -152,7 +152,7 @@ O utilizador pode editar a Entidade no botão **EDITAR ENTIDADE**, de forma a co
 <p id="EditarEstabelecimentoINPS"></p>
 ### 16.2.4 Editar Estabelecimento 
 
-Na figura 89 ([](figEstabelecimentos)) é visivel de como exibir a Entidade.
+Na figura 89 ([](figEstabelecimentos)) é visivel como exibir a Entidade.
 O utilizador pode editar o Estabelecimento no botão **EDITAR ESTABELECIMENTO**, de forma a comunicar com o INPS deve alterar os seguintes campos:
 
 |                  |Editar Estabelecimento               | 
