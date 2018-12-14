@@ -10,7 +10,7 @@ order: 3
 
 <p id="GestãodeUtilizadores"></p>
 
-# 16.Gestão de Utilizadores INPS
+# 16.Gestão de Utilizadores INPS 
 
 Neste módulo é apresentado de forma explicativa como proceder à Criação de um Interlocutor SGES, Criação de um Gestor INPS, Alteração dos dados do gestor, Associar um gestor a um estabelecimento e Editar entidade e estabelecimento.
 Tem como objetivo a identificação e gestão dos responsáveis pela manutenção do Inventário Nacional de profissionais de Saúde.
@@ -139,6 +139,7 @@ Ao exibir os dados pode-se adicionar ou retirar estabelecimentos associados a um
 <p id="EditarEntidadeINPS"></p>
 ### 16.2.3 Editar Entidade 
 
+Na figura 88 ([](figEntidade)) visualisa-se a Entidade.
 O utilizador pode editar a Entidade no botão **EDITAR ENTIDADE**, de forma a comunicar com o INPS deve alterar os seguintes campos: 
 
 |                  |Editar Entidade                      | 
@@ -151,6 +152,7 @@ O utilizador pode editar a Entidade no botão **EDITAR ENTIDADE**, de forma a co
 <p id="EditarEstabelecimentoINPS"></p>
 ### 16.2.4 Editar Estabelecimento 
 
+Na figura 89 ([](figEstabelecimento)) visualisa-se a Estabelecimento.
 O utilizador pode editar o Estabelecimento no botão **EDITAR ESTABELECIMENTO**, de forma a comunicar com o INPS deve alterar os seguintes campos:
 
 |                  |Editar Estabelecimento               | 
